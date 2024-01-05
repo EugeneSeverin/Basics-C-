@@ -43,3 +43,4 @@
 // Unsigned doubles the range. 0 to 65535 for int, 0 to 256 for char
 // Long extends the size for int and double. It makes int size double: 2 - 4/ 4 - 8
 // As for doubles, it makes it bigger from 8 to 10
+
