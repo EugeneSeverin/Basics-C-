@@ -11,4 +11,6 @@ int main(){
 
     std::cout <<"Area is " << area << std::endl;
 
+    return 0;
+
 }
